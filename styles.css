@@ -12,6 +12,11 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   padding: 30px 20px;
+
+    background-image: url(images/city-lights-through-rain-window.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .container {
@@ -88,3 +93,4 @@ input:focus {
   color: #234e04;
   padding-top: 20px;
 }
+
