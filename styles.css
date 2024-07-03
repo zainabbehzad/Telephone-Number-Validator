@@ -6,7 +6,6 @@ body {
   height: 100vh;
   margin: 0;
   width: 90%;
-  background-size: 300% 300%;
   animation: color 12s ease-in-out infinite;
   flex-wrap: wrap;
   flex-direction: column;
@@ -44,7 +43,6 @@ span {
 }
 
 #NO {
-  background-color: #050405;
   background: linear-gradient(135deg, #ece0dc, #161617, #695c4e, #702609);
 }
 
