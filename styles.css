@@ -5,18 +5,16 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  width: 100%;
-  background: linear-gradient(135deg, #ece0dc, #161617, #f48e21, #702609);
+  width: 90%;
   background-size: 300% 300%;
   animation: color 12s ease-in-out infinite;
   flex-wrap: wrap;
   flex-direction: column;
   padding: 30px 20px;
-
-    background-image: url(images/city-lights-through-rain-window.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+  background-image: url(images/city-lights-through-rain-window.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .container {
@@ -39,6 +37,15 @@ h1 {
   margin: 15px 0;
   text-align: center;
   flex-wrap: wrap;
+}
+
+span {
+  color: #702609;
+}
+
+#NO {
+  background-color: #050405;
+  background: linear-gradient(135deg, #ece0dc, #161617, #695c4e, #702609);
 }
 
 input {
@@ -93,4 +100,3 @@ input:focus {
   color: #234e04;
   padding-top: 20px;
 }
-
