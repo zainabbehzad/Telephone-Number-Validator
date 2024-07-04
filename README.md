@@ -7,7 +7,7 @@
 ## Demo 📸
 ![Screenshot (42)](https://github.com/zainabbehzad/Telephone-Number-Validator/assets/168668702/3d559e7d-2364-49b1-b0cf-0524040ac675)
 
-Live Link [https://zainabbehzad.github.io/Telephone-Number-Validator/]
+Live Link: [https://zainabbehzad.github.io/Telephone-Number-Validator/]
 
 ## Telephone-Number-Validator 🛠️
 - HTML
