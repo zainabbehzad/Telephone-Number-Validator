@@ -98,9 +98,9 @@ input:hover {
   margin: 10px;
   color: #0a0a23;
   font-size: 18px;
-  background-color: #ffffff;
+  background-color: #fff;
   background-image: linear-gradient(#131010, #928d86);
-  border-color: #ffffff;
+  border-color: #fff;
   border-width: 3px;
 }
 
