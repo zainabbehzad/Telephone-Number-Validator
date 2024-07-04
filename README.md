@@ -5,8 +5,9 @@
 🌟 👩‍💻A telephone number validator is a software tool or algorithm that checks the validity of a given telephone number. It ensures that the number adheres to the expected format and structure for a valid phone number within a specific region or country. Telephone number validators are commonly used in various applications, such as e-commerce platforms, customer relationship management (CRM) systems, and mobile apps, to ensure accurate and reliable phone number input from users. They help reduce errors, improve data quality, and enable efficient communication and contact management.💻📝🚀
 
 ## Demo 📸
-![Screenshot (33)](https://github.com/zainabbehzad/-Palindrome-Checker/assets/168668702/e58af6fc-b669-4ea4-9c35-03b1ed0ea6f9)
+![Screenshot (42)](https://github.com/zainabbehzad/Telephone-Number-Validator/assets/168668702/3d559e7d-2364-49b1-b0cf-0524040ac675)
 
+Live Link: [https://zainabbehzad.github.io/Telephone-Number-Validator/]
 
 ## Telephone-Number-Validator 🛠️
 - HTML
