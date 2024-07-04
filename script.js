@@ -12,7 +12,7 @@ const phoneRegex = new RegExp(
 );
 
 const checkValidNumber = (input) => {
-  resultsDiv.innerHTML = ''; // Clear the previous results
+  resultsDiv.innerHTML = '';
 
   if (input === '') {
     const pTag = document.createElement('p');
